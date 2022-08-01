@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f43bfc1-e200-4d8c-abec-f20b53894a8c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AlgoTraderEx$TM3.coverage" NAME="TM3 Coverage Results" MODIFIED="1617888859481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strategies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#158#1791#0" />
+                <element signature="e#5425#8217#0" />
+                <element signature="e#8325#15019#0" />
+                <element signature="e#15130#17524#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TM6_kucoin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="662" column="34" lean-forward="true" selection-start-line="662" selection-start-column="34" selection-end-line="662" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/margin/margin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2856">
+              <caret line="168" column="37" selection-start-line="168" selection-start-column="37" selection-end-line="168" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/market/market.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5406">
+              <caret line="318" column="71" selection-start-line="318" selection-start-column="63" selection-end-line="318" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/user/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/trade/trade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kucoin_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>startscreen</find>
+      <find>startScreen</find>
+      <find>startScan</find>
+      <find>open</find>
+      <find>match</find>
+      <find>candles</find>
+      <find>realtimebar</find>
+      <find>baseAsset</find>
+      <find>endTrade</find>
+      <find>'''</find>
+      <find>get_kline_data</find>
+      <find>margin</find>
+      <find>place-a-new-order</find>
+      <find>client</find>
+      <find>getLastSymbolCount</find>
+      <find>handle_evt</find>
+      <find>ksm</find>
+      <find>accounts</find>
+      <find>get_round_precision</find>
+      <find>client.</find>
+      <find>get_kline</find>
+      <find>market/stats</find>
+      <find>market/candles</find>
+      <find>Received Close Signal</find>
+      <find>mark-price</find>
+      <find>endTimeDate</find>
+      <find>mark-price</find>
+      <find>getlas</find>
+      <find>maxOrderCount</find>
+      <find>Max number of trades</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>df.iloc</replace>
+      <replace>oneHighArr</replace>
+      <replace>oneLowArr</replace>
+      <replace>oneHistData</replace>
+      <replace>self.histData</replace>
+      <replace>self.highArr</replace>
+      <replace>symbols[symbol]</replace>
+      <replace>statusArr</replace>
+      <replace>self.pickedTickers</replace>
+      <replace>self.pickedHistData</replace>
+      <replace>self.pickedStatusArr</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Mainprogram_ver3.py" />
+        <option value="$PROJECT_DIR$/ib_position_details.py" />
+        <option value="$PROJECT_DIR$/ib_acc_summary_+pnl.py" />
+        <option value="$PROJECT_DIR$/IBPy_Master_Gain_copy1.py" />
+        <option value="$PROJECT_DIR$/ib_atr_AR_code.py" />
+        <option value="$PROJECT_DIR$/ib_atr_AR_code_final.py" />
+        <option value="$PROJECT_DIR$/ib_contract_asynch.py" />
+        <option value="$PROJECT_DIR$/ib_contract_asynch_event.py" />
+        <option value="$PROJECT_DIR$/Scan_Top_Gain_copy1.py" />
+        <option value="$PROJECT_DIR$/ib_open_orders.py" />
+        <option value="$PROJECT_DIR$/Mainprogram_ver1.py" />
+        <option value="$PROJECT_DIR$/ib_atr.py" />
+        <option value="$PROJECT_DIR$/Mainprogram.py" />
+        <option value="$PROJECT_DIR$/TM2.py" />
+        <option value="$PROJECT_DIR$/Mainprogram_ver4.py" />
+        <option value="$PROJECT_DIR$/ib_atr_multi.py" />
+        <option value="$PROJECT_DIR$/ib_vwap.py" />
+        <option value="$PROJECT_DIR$/TM1.py" />
+        <option value="$PROJECT_DIR$/ib_TopBreakOut.py" />
+        <option value="$PROJECT_DIR$/ib_TTM_squeeze.py" />
+        <option value="$PROJECT_DIR$/TM3.py" />
+        <option value="$PROJECT_DIR$/TM4_1.1.py" />
+        <option value="$PROJECT_DIR$/binance/bot.py" />
+        <option value="$PROJECT_DIR$/binance/get_data.py" />
+        <option value="$PROJECT_DIR$/TM4 1.2.py" />
+        <option value="$PROJECT_DIR$/Scanner_On_demand_ver1.py" />
+        <option value="$PROJECT_DIR$/OrderSamples.py" />
+        <option value="$PROJECT_DIR$/TM4.py" />
+        <option value="$PROJECT_DIR$/Strategy.py" />
+        <option value="$PROJECT_DIR$/Strategies.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/TM5.py" />
+        <option value="$PROJECT_DIR$/eSMA_ver1.py" />
+        <option value="$PROJECT_DIR$/TM6.py" />
+        <option value="$PROJECT_DIR$/kucoin_test_1.py" />
+        <option value="$PROJECT_DIR$/kucoin_test_2.py" />
+        <option value="$PROJECT_DIR$/kucoin_test3.py" />
+        <option value="$PROJECT_DIR$/kucoin_test.py" />
+        <option value="$PROJECT_DIR$/TM6_kucoin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="316" />
+    <option name="width" value="1612" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="AlgoTraderEx" sdk-home="F:\Install\Anaconda3\envs\myenv\python.exe" is-module-sdk="true" working-directory="$PROJECT_DIR$">
+        <option name="mySdkHome" value="F:\Install\Anaconda3\envs\myenv\python.exe" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="AlgoTraderEx" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TM3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlgoTraderEx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TM3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="AlgoTraderEx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ib_atr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f43bfc1-e200-4d8c-abec-f20b53894a8c" name="Default Changelist" comment="" />
+      <created>1615947681379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615947681379</updated>
+      <workItem from="1615947741189" duration="553000" />
+      <workItem from="1615948381119" duration="20225000" />
+      <workItem from="1616050794928" duration="919000" />
+      <workItem from="1616051787928" duration="26229000" />
+      <workItem from="1616114873361" duration="9662000" />
+      <workItem from="1616138441859" duration="18849000" />
+      <workItem from="1616373683051" duration="3824000" />
+      <workItem from="1616398368537" duration="2192000" />
+      <workItem from="1616431573702" duration="2579000" />
+      <workItem from="1616462959336" duration="612000" />
+      <workItem from="1616549396070" duration="6762000" />
+      <workItem from="1616576252110" duration="15431000" />
+      <workItem from="1616599470532" duration="10334000" />
+      <workItem from="1616675328356" duration="23039000" />
+      <workItem from="1616743726343" duration="39936000" />
+      <workItem from="1616982106964" duration="6129000" />
+      <workItem from="1617002785352" duration="12657000" />
+      <workItem from="1617021240662" duration="3168000" />
+      <workItem from="1617024454187" duration="8060000" />
+      <workItem from="1617034226174" duration="15858000" />
+      <workItem from="1617064472030" duration="3658000" />
+      <workItem from="1617071287440" duration="302000" />
+      <workItem from="1617113175340" duration="14781000" />
+      <workItem from="1617199187828" duration="19283000" />
+      <workItem from="1617283550841" duration="17219000" />
+      <workItem from="1617703080596" duration="4787000" />
+      <workItem from="1617754940526" duration="33122000" />
+      <workItem from="1617841477425" duration="11385000" />
+      <workItem from="1617870546242" duration="1759000" />
+      <workItem from="1617877016814" duration="1779000" />
+      <workItem from="1617886444748" duration="354000" />
+      <workItem from="1617886812569" duration="1022000" />
+      <workItem from="1617888930659" duration="843000" />
+      <workItem from="1617889792959" duration="1727000" />
+      <workItem from="1617891545749" duration="252000" />
+      <workItem from="1617891824841" duration="1290000" />
+      <workItem from="1617893755732" duration="443000" />
+      <workItem from="1617894204491" duration="49000" />
+      <workItem from="1617894478193" duration="850000" />
+      <workItem from="1617895338109" duration="10151000" />
+      <workItem from="1617930272400" duration="8636000" />
+      <workItem from="1617954920475" duration="674000" />
+      <workItem from="1617958999211" duration="4482000" />
+      <workItem from="1617976249120" duration="12632000" />
+      <workItem from="1618015021459" duration="6488000" />
+      <workItem from="1618027150502" duration="950000" />
+      <workItem from="1618042648847" duration="2814000" />
+      <workItem from="1618188153642" duration="2012000" />
+      <workItem from="1618213747030" duration="3884000" />
+      <workItem from="1618272878360" duration="3109000" />
+      <workItem from="1618318054380" duration="9286000" />
+      <workItem from="1618361460499" duration="9025000" />
+      <workItem from="1618385269233" duration="1182000" />
+      <workItem from="1618409222192" duration="9123000" />
+      <workItem from="1618440092508" duration="4775000" />
+      <workItem from="1618504109468" duration="41789000" />
+      <workItem from="1618644544585" duration="5414000" />
+      <workItem from="1618786437747" duration="6437000" />
+      <workItem from="1618878352394" duration="3002000" />
+      <workItem from="1618935633909" duration="1312000" />
+      <workItem from="1618965587932" duration="62095000" />
+      <workItem from="1619139171578" duration="6972000" />
+      <workItem from="1619171782616" duration="10156000" />
+      <workItem from="1619224196323" duration="16652000" />
+      <workItem from="1619274447845" duration="1442000" />
+      <workItem from="1619397914222" duration="11417000" />
+      <workItem from="1619485086118" duration="1192000" />
+      <workItem from="1619510747641" duration="18191000" />
+      <workItem from="1619570349816" duration="31043000" />
+      <workItem from="1619656210202" duration="10561000" />
+      <workItem from="1619681544572" duration="22963000" />
+      <workItem from="1619742993856" duration="9010000" />
+      <workItem from="1619785726658" duration="11862000" />
+      <workItem from="1619828553796" duration="1500000" />
+      <workItem from="1619964273579" duration="2235000" />
+      <workItem from="1620002320570" duration="9784000" />
+      <workItem from="1620028075138" duration="19339000" />
+      <workItem from="1620087872733" duration="6973000" />
+      <workItem from="1620114046303" duration="8194000" />
+      <workItem from="1620132036288" duration="14742000" />
+      <workItem from="1620176287808" duration="6396000" />
+      <workItem from="1620199804800" duration="19208000" />
+      <workItem from="1620260836069" duration="8670000" />
+      <workItem from="1620286569651" duration="5221000" />
+      <workItem from="1620301638975" duration="18565000" />
+      <workItem from="1620348459939" duration="1699000" />
+      <workItem from="1620358710568" duration="2104000" />
+      <workItem from="1620373171025" duration="8995000" />
+      <workItem from="1620389885246" duration="15003000" />
+      <workItem from="1620439967109" duration="3686000" />
+      <workItem from="1620459611614" duration="2000" />
+      <workItem from="1620606719651" duration="1951000" />
+      <workItem from="1620650675006" duration="1156000" />
+      <workItem from="1620694473788" duration="7956000" />
+      <workItem from="1620718541361" duration="23096000" />
+      <workItem from="1620780339700" duration="7307000" />
+      <workItem from="1620804695141" duration="19574000" />
+      <workItem from="1620866300027" duration="8354000" />
+      <workItem from="1620899067659" duration="12259000" />
+      <workItem from="1620953729269" duration="5611000" />
+      <workItem from="1620982140312" duration="17244000" />
+      <workItem from="1621039586703" duration="3525000" />
+      <workItem from="1621239482748" duration="279000" />
+      <workItem from="1621299063826" duration="5580000" />
+      <workItem from="1621324276765" duration="20589000" />
+      <workItem from="1621408258385" duration="13000" />
+      <workItem from="1621477317985" duration="30076000" />
+      <workItem from="1621565393867" duration="35000" />
+      <workItem from="1621570700798" duration="605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1020182000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.18710022" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.2153518" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.3288889" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.42444444" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4968017" weight="0.5688889" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946696" weight="0.27333334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.16364606" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.2153518" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.3288889" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159913" side_tool="true" weight="0.38666666" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49840087" visible="true" weight="0.37666667" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946696" weight="0.27333334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/Install/Python/Lib/site-packages/unicorn_binance_websocket_api/unicorn_binance_websocket_api_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="975" column="8" selection-start-line="975" selection-start-column="8" selection-end-line="975" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TM3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#310#898#0" />
+            <element signature="e#950#3681#0" />
+            <element signature="e#3758#4412#0" />
+            <element signature="e#4588#4742#0" />
+            <element signature="e#4829#10698#0" />
+            <element signature="e#10792#14504#0" />
+            <element signature="e#14528#14781#0" />
+            <element signature="e#14918#16608#0" />
+            <element signature="e#16656#17587#0" />
+            <element signature="e#17650#18202#0" />
+            <element signature="e#18264#19030#0" />
+            <element signature="e#19059#19685#0" />
+            <element signature="e#19748#23756#0" />
+            <element signature="e#23788#29799#0" />
+            <element signature="e#29880#30048#0" />
+            <element signature="e#30076#30085#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/site-packages/binance/enums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binance/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="65" column="47" lean-forward="true" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/site-packages/binance/websockets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="653" column="8" selection-start-line="653" selection-start-column="8" selection-end-line="653" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binance/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/env/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2503" column="21" lean-forward="true" selection-start-line="2503" selection-start-column="21" selection-end-line="2503" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Install/Python/Lib/site-packages/ibapi-9.76.1-py3.9.egg!/ibapi/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/env/Lib/site-packages/pandas/core/tools/datetimes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="608" column="4" selection-start-line="608" selection-start-column="4" selection-end-line="608" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TM4 1.3.py" />
+    <entry file="jar://F:/Install/Python/Lib/site-packages/ibapi-9.76.1-py3.9.egg!/ibapi/contract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1858">
+          <caret line="111" column="6" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TM4 1.4.py" />
+    <entry file="jar://F:/Install/Python/Lib/site-packages/ibapi-9.76.1-py3.9.egg!/ibapi/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="2579" column="50" lean-forward="true" selection-start-line="2579" selection-start-column="50" selection-end-line="2579" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1510667859/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="3754" column="11" lean-forward="true" selection-start-line="3754" selection-start-column="11" selection-end-line="3754" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scanner_On_demand_ver1.py" />
+    <entry file="file://F:/Install/Python/Lib/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="1978" column="8" selection-start-line="1978" selection-start-column="8" selection-end-line="1978" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1510667859/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TM2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="429" column="42" lean-forward="true" selection-start-line="429" selection-start-column="42" selection-end-line="429" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1053#1116#0" />
+            <element signature="e#2704#3129#0" />
+            <element signature="e#3206#3284#0" />
+            <element signature="e#7083#12196#0" />
+            <element signature="e#13443#15181#0" />
+            <element signature="e#15229#16135#0" />
+            <element signature="e#16198#16730#0" />
+            <element signature="e#16792#17479#0" />
+            <element signature="e#17560#17728#0" />
+            <element signature="e#17756#17765#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IBPy_Master_Gain_copy1.py" />
+    <entry file="file://$PROJECT_DIR$/TM1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="279" column="9" lean-forward="true" selection-start-line="279" selection-start-column="9" selection-end-line="279" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#6652#8757#0" />
+            <element signature="e#9480#11687#0" />
+            <element signature="e#13023#14407#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrderSamples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="119" column="31" lean-forward="true" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+          <folding>
+            <element signature="e#211#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py" />
+    <entry file="file://$PROJECT_DIR$/eSMA_ver1.py" />
+    <entry file="file://$PROJECT_DIR$/ib_bb.py" />
+    <entry file="file://$PROJECT_DIR$/ib_eMA.py" />
+    <entry file="file://$PROJECT_DIR$/ib_Ichimoku.py" />
+    <entry file="file://$PROJECT_DIR$/ib_vwap.py" />
+    <entry file="file://$PROJECT_DIR$/ib_rsi.py" />
+    <entry file="file://$PROJECT_DIR$/ib_atr.py" />
+    <entry file="file://$PROJECT_DIR$/ib_TopBreakOut.py" />
+    <entry file="file://$PROJECT_DIR$/ib_TTM_squeeze.py" />
+    <entry file="file://F:/Install/Python/Lib/site-packages/binance/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="782" column="25" lean-forward="true" selection-start-line="782" selection-start-column="25" selection-end-line="782" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/ib_bb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TM5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="335" column="32" selection-start-line="330" selection-start-column="12" selection-end-line="335" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#5627#7063#0" />
+            <element signature="e#7130#7832#0" />
+            <element signature="e#7900#9227#0" />
+            <element signature="e#9302#10620#0" />
+            <element signature="e#10697#11852#0" />
+            <element signature="e#33930#34145#0" />
+            <element signature="e#34226#34394#0" />
+            <element signature="e#35060#35406#0" />
+            <element signature="e#35636#35956#0" />
+            <element signature="e#35995#36606#0" />
+            <element signature="e#36643#37222#0" />
+            <element signature="e#37257#37867#0" />
+            <element signature="e#38095#39208#0" />
+            <element signature="e#39270#39483#0" />
+            <element signature="e#39525#39768#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TM6.py" />
+    <entry file="file://$PROJECT_DIR$/TM4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="838" column="9" lean-forward="true" selection-start-line="838" selection-start-column="9" selection-end-line="838" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#782#845#0" />
+            <element signature="e#28832#34959#0" />
+            <element signature="e#35036#36890#0" />
+            <element signature="e#36971#37139#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/asyncio/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="635" column="10" selection-start-line="635" selection-start-column="10" selection-end-line="635" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TM6_binance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kucoin_test3.py" />
+    <entry file="file://$PROJECT_DIR$/kucoin_test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kucoin_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="43" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/ws_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/asyncio/websockets.py" />
+    <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#158#1791#0" />
+            <element signature="e#5425#8217#0" />
+            <element signature="e#8325#15019#0" />
+            <element signature="e#15130#17524#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/margin/margin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="168" column="37" selection-start-line="168" selection-start-column="37" selection-end-line="168" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/market/market.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5406">
+          <caret line="318" column="71" selection-start-line="318" selection-start-column="63" selection-end-line="318" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/user/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="24" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Install/Python/Lib/site-packages/kucoin/trade/trade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kucoin_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TM6_kucoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="662" column="34" lean-forward="true" selection-start-line="662" selection-start-column="34" selection-end-line="662" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
